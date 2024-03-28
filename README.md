@@ -7,7 +7,11 @@ python webrick.py links.txt
 OR
 python3 
 webrick.py links.txt
+
 # Practical:-
+To see practical open "Practical.PNG"
+
+# We add more feature soon
 
 
 
